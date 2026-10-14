@@ -1,7 +1,7 @@
 # Catalogue d'informations
 ## Personnes
 - nom
-- date de naissance
+- année de naissance
 - origine
 - formation
 - occupation
