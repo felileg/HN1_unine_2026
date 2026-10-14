@@ -21,3 +21,9 @@
 
 # Relations entre objets
 
+- *personne* a été sujet de *exécution*
+- *exécution* a eu lieu dans *lieu*
+- *exécution* a eu lieu à *date*
+- 
+
+
