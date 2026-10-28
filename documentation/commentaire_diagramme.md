@@ -2,7 +2,7 @@
 ## *person*
 Tout être humain.
 ### propriétés
-- `birth_date`
+- `birth_year`
 - `gender`
 - `ethnicity` si disponible
 - `profession` si disponible
@@ -20,6 +20,12 @@ Lieu.
 - `long` : longitude
 - `lat` : latitude
 
+## *conviction*
+Condamnation
+## propriété
+- `date`
+- `reason`
+
 # Relations
 
 ## *person* → *geographical place*
@@ -34,3 +40,6 @@ Lieu.
 - Chaque exécution a eu lieu à 1 endroit
 - Chaque endroit peut avoir accueilli 0-n exécutions
 
+## *person* → *conviction*
+- Chaque personne peut avoir eu 0-n condamnations
+- Chaque condamnation concerne 1 personne (pas sûr)
