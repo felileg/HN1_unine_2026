@@ -19,6 +19,11 @@
 - personne
 - méthode léthale
 
+## Condamnation
+- date
+- motif
+
+
 # Relations entre objets
 
 - *personne* a été sujet de *exécution*
