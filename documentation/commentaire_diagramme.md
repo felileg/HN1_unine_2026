@@ -23,7 +23,7 @@ Lieu.
 
 ## *conviction*
 Condamnation
-## propriété
+### propriétés
 - `date`
 - `reason`
 
