@@ -16,6 +16,7 @@ Tout être humain.
 ## *geographical place*
 Lieu.
 ### propriétés
+- `name` : nom
 - `type` : État, ville, etc.
 - `long` : longitude
 - `lat` : latitude
