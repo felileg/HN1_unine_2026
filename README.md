@@ -5,3 +5,8 @@
 - [Problématique et questionnements](documentation/problematique_questionnements.md)
 - [Listes de personnes exécutées aux États-Unis](documentation/listes_executions.md)
 - [Catalogue des informations](documentation/catalogue_informations.md)
+#### Conceptualisation
+
+![Diagramme conceptuel de la base de données](documentation/diagramme.svg)
+
+[Commentaire du diagramme](documentation/commentaire_diagramme.md)
